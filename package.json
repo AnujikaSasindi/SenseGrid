@@ -4,8 +4,6 @@
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
-    "export": "next export",
-    "deploy": "next build && next export",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
